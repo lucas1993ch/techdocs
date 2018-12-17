@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57bfb77e-de77-4136-912a-6694ec8141bf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/godocs/docUrl.md" beforeDir="false" afterPath="$PROJECT_DIR$/godocs/docUrl.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/godocs/docUrl.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="22">
-                <caret line="1" column="53" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
+              <first_editor relative-caret-position="176">
+                <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -50,9 +51,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="49" />
-    <option name="y" value="300" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="44" />
+    <option name="y" value="23" />
     <option name="width" value="1876" />
     <option name="height" value="1057" />
   </component>
@@ -101,7 +102,7 @@
     </option>
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="300" width="1876" height="1057" extended-state="0" />
+    <frame x="44" y="23" width="1876" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -142,8 +143,8 @@
     <entry file="file://$PROJECT_DIR$/godocs/docUrl.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="22">
-            <caret line="1" column="53" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
