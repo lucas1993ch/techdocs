@@ -9,3 +9,8 @@
 [ Go Struct Tag](http://www.flysnow.org/2017/06/25/go-in-action-struct-tag.html)
 
 [go reflect struct 遍历,反射](https://my.oschina.net/solate/blog/715681)
+
+[Go 反射：根据类型创建对象-第一部分（原始类型）](https://studygolang.com/articles/12434)
+
+另外，发现了一个新的社区,嗯哼~！[Medium](https://medium.com/)
+
