@@ -4,7 +4,7 @@
  
 [掘金：Golang的反射reflect深入理解和示例](https://juejin.im/post/5a75a4fb5188257a82110544)
 
-[脚本之家:Go语言中的方法、接口和嵌入类型详解](https://www.jb51.net/article/56831.htm)
+[脚本之家:Go语言中的方法、接口和嵌入类型详解,方法提升](https://www.jb51.net/article/56831.htm)
 
 [ Go Struct Tag](http://www.flysnow.org/2017/06/25/go-in-action-struct-tag.html)
 
@@ -17,3 +17,5 @@
 [golang中struct成员变量的标签（Tag）说明和获取方式](http://www.01happy.com/golang-struct-tag-desc-and-get/)
 
 [Go Web编程](https://www.kancloud.cn/kancloud/web-application-with-golang/44155)
+
+[iota: Golang 中优雅的常量](https://segmentfault.com/a/1190000000656284)
